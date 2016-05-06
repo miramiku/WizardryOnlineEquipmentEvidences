@@ -29,7 +29,7 @@
 | 帽子     | Hats                |
 | 頭巾     | Hoods               |
 | 鎧       | Armors              |
-| 外衣     | Coasts              |
+| 外衣     | Coats              |
 | 上衣     | Tops                |
 | 脚鎧     | Greaves             |
 | 衣服     | bottoms             |
