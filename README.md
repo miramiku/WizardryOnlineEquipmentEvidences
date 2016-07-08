@@ -32,7 +32,6 @@
 | 外衣     | Coats              |
 | 上衣     | Tops                |
 | 脚鎧     | Greaves             |
-| 衣服     | bottoms             |
 | 下衣     | Bottoms             |
 | 手甲     | Gauntlets           |
 | 手袋     | Gloves              |
