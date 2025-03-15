@@ -104,10 +104,6 @@
 ## エビデンスの提供
 エビデンスをお持ちの方はエビデンスの要求用件に合致する画像（整形は必要ありません）を提供していただけると幸いです。
 
-1. [dbinbox](https://dbinbox.com/miramiku) で送付（簡単でおすすめ）
-1. [ファイルリクエスト](https://www.dropbox.com/request/6YQlM4clyqPDsY88eKV4) を利用（安全ですが氏名とメールアドレスの記入が必要）
-1. このリポジトリにコントリビュートするまたはプルリクエストを送る（全ファイルをローカルに同期する事になるのでおすすめできません）
-
 ## スクリーンショットに関する著作権表記
 "Wizardry(R)" of GMO Gamepot Inc. All rights reserved.<br>
 Wizardry Renaissance(TM) (c)2009 GMO Gamepot Inc. All rights reserved.
